@@ -1,7 +1,7 @@
 h1 {
     text-align: center;
 }
-.gorup-list {
+.group-list {
     width: 500px;
     margin: 0 auto;
     box-sizing: border-box;
@@ -10,11 +10,11 @@ h1 {
     box-shadow: 5px 5px #a4a3a3;
 }
 
-.gorup-list li {
+.group-list li {
     list-style: none;
 }
 
-.gorup-list li a {
+.group-list li a {
     text-decoration: none;
     color: #430255;
 }
