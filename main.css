@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+.group-list {
+    width: 500px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 15px;
+    background-color: #f5f1ba;
+    box-shadow: 5px 5px #a4a3a3;
+}
+
+.group-list li {
+    list-style: none;
+}
+
+.group-list li a {
+    text-decoration: none;
+    color: #430255;
+}
